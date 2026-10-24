@@ -1,4 +1,4 @@
-# Hola, soy Damian 👋
+# Hola, soy Damián 👋
 
 Desarrollador full-stack de Chile (Android, iOS y web). Me dedico a construir herramientas que conectan a los agentes de código con el mundo real, y a que usarlos sea más barato y menos frágil.
 
