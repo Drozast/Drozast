@@ -1,4 +1,4 @@
-# Hola, soy Dani 👋
+# Hola, soy Damian 👋
 
 Desarrollador full-stack de Chile (Android, iOS y web). Me dedico a construir herramientas que conectan a los agentes de código con el mundo real, y a que usarlos sea más barato y menos frágil.
 
@@ -16,4 +16,4 @@ Desarrollador full-stack de Chile (Android, iOS y web). Me dedico a construir he
 
 ## Conversemos
 
-Si trabajas con agentes de código, modelos locales o MCP, o necesitas un desarrollador para un proyecto web o móvil: **[dani@rozas.digital](mailto:dani@rozas.digital)**.
+Si trabajas con agentes de código, modelos locales o MCP, o necesitas un desarrollador para un proyecto web o móvil: **[drozast@gmail.com](mailto:drozast@gmail.com)**.
